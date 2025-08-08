@@ -54,5 +54,3 @@ Auxiliar o empresário João na identificação de qual das suas 4 lojas deve se
 **Autor:** [Vitor Oliveira](https://github.com/vloliveira)
 
 ---
-
-Se quiser, posso também incluir no README uma **visualização do gráfico de faturamento** diretamente no Markdown para já deixar seu repositório mais atrativo.
