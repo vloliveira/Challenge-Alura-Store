@@ -1,6 +1,7 @@
-# 📊 Análise de Desempenho de Lojas – Projeto de Decisão Estratégica
+# 📊 Análise de Desempenho de Lojas – Challenge Alura Store
 
 **Objetivo**
+
 Auxiliar o empresário João na identificação de qual das suas 4 lojas deve ser vendida, utilizando dados reais de desempenho e análises comparativas.
 
 ---
